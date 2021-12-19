@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning Cara Menikahi Anime
 - 💞️ I’m looking to collaborate with Elaina
 - 📫 How to reach me ? Search k.fvhri On Instagram
+- ✨ Funfact About Me : Ntahlah Bro , Hidup gw Ga Ada Yang Spesial
 
-- My Website : www.hitungwinrate.ml
+- 🌐 My Website : www.hitungwinrate.ml
 
 <!---
 LionelKaii/LionelKaii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
