@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @LionelKaii
+- 🗿 You Can Call Me As Kai
 - 👀 I’m interested in Pt. Mencintai Yang Tidak Ada
 - 🌱 I’m currently learning Cara Menikahi Anime
 - 💞️ I’m looking to collaborate with Elaina
