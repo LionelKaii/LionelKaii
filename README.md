@@ -1,6 +1,6 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=johsteven&show_icons=true&theme=synthwave)
+![github stats](https://github-readme-stats.vercel.app/api?username=lionelkaii&show_icons=true&theme=synthwave)
 
-###About Me
+### About Me
 - 👋 Hi, I’m @LionelKaii
 - 🗿 You Can Call Me As Kai
 - 👀 I’m interested in Pt. Mencintai Yang Tidak Ada
