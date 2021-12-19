@@ -5,9 +5,9 @@
 - 📫 How to reach me ? Search k.fvhri On Instagram
 - ✨ Funfact About Me : Ntahlah Bro , Hidup gw Ga Ada Yang Spesial
 
-- 🌐 My Website : www.winrate.ml
+- 🌐 My Website : https://www.winrate.ml
 - All My Repositary Is Free To Use And Copy
-- Need Help? Contact Me On Whatsapp linktr.ee/lionelkaii
+- Need Help? Contact Me On Whatsapp https://linktr.ee/lionelkaii
 
 <!---
 LionelKaii/LionelKaii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
